@@ -1,6 +1,6 @@
-com.alibaba.otter.canal.spring.boot.CanalClusterClientAutoConfiguration
-com.alibaba.otter.canal.spring.boot.CanalKafkaClientAutoConfiguration
-com.alibaba.otter.canal.spring.boot.CanalPulsarClientAutoConfiguration
-com.alibaba.otter.canal.spring.boot.CanalRabbitmqClientAutoConfiguration
-com.alibaba.otter.canal.spring.boot.CanalRocketmqClientAutoConfiguration
-com.alibaba.otter.canal.spring.boot.CanalSimpleClientAutoConfiguration
+io.debezium.spring.boot.DebeziumClusterClientAutoConfiguration
+io.debezium.spring.boot.DebeziumKafkaClientAutoConfiguration
+io.debezium.spring.boot.DebeziumPulsarClientAutoConfiguration
+io.debezium.spring.boot.DebeziumRabbitmqClientAutoConfiguration
+io.debezium.spring.boot.DebeziumRocketmqClientAutoConfiguration
+io.debezium.spring.boot.DebeziumSimpleClientAutoConfiguration
