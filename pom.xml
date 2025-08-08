@@ -11,8 +11,8 @@
 	</parent>
 
 	<groupId>com.github.hiwepy</groupId>
-	<artifactId>debezium-spring-boot-starter</artifactId>
-	<description>Spring Boot Starter For Debezium</description>
+	<artifactId>debezium-embedded-spring-boot-starter</artifactId>
+	<description>Spring Boot Starter For Debezium Embedded</description>
 	<version>3.3.x.20240823.RELEASE</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<url>https://github.com/hiwepy/${project.artifactId}</url>
